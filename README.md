@@ -9,7 +9,8 @@
 <details>
     <summary><h3>
      ✨My Life✨</h3></summary>
-            <p>Não lembro exatamente quando entrei neste mundo, mas a cada dia mais me encanto. Meu conhecimento é aumentado constantemente e a cada bug que acontece uma risada é gerada, quando resolvido o problema um sorriso surgi e sempre é acompanhado do aprendizado. No momento estou a realizar um curso de Programação Web que trabalha tanto Front-end quanto Back-end. Aos poucos estou a trilhar a minha história.
+            <p>
+ Não lembro exatamente quando entrei neste mundo, mas a cada dia mais me encanto. Meu conhecimento é aumentado constantemente e a cada bug que acontece uma risada é gerada, sendo que quando resolvido o problema um sorriso surgi e sempre é acompanhado do aprendizado. No momento estou a realizar um curso de Programação Web que trabalha tanto Front-end quanto Back-end. Aos poucos estou a trilhar a minha história.
  </p></details>
 <details>
     <summary><h3>
