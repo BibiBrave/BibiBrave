@@ -9,9 +9,7 @@
 <details>
     <summary><h3>
      ✨My Life✨</h3></summary>
-            <p>
-Reconheço-me como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia. Focado em ser Desenvolvedor FullStack, pensando no ramo Web, comecei a aprofundar no Front-end usando a framework Bootstrap e para trabalhar Back-end Laravel(PhP) e MySQL. Pensando nas automações e alguns projetos pessoais, fez com que estude Nodered, Docker, Python e C++. Sou apaixonado por desenvolver soluções usando programação. 
-     Sou constante e gosto de estar sempre em movimento, estagnar é de longe um objetivo profissional ou pessoal, amo aprender, amo entender, gosto de sentir evoluindo independente do ritmo. Sou determinado, sei o que quero e onde quero chegar, toda a minha trajetória profissional embora em área diferente da programação me ajudou a forjar quem eu sou, entender que conhecimento é vasto e tenho muito a aprender, onde a melhor maneira de avançar é dando o meu melhor.
+            <p>Não lembro exatamente quando entrei nesse mundo, mas a cada dia mais me encanto. Meu conhecimento é aumentado constantemente e  a cada bug que acontece   uma risada é gerada, ao resolver um sorriso surgi e sempre é acompanhado do aprendizado.
  </p></details>
 <details>
     <summary><h3>
