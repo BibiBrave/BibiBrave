@@ -33,9 +33,9 @@
 ![VSCode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## GitHub Status✨
-<div>
+
 <a href="https://github.com/BibiBrave">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=BibiBrave&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibiBrave&layout=compact&langs_count=16&theme=midnight-purple" /a>
-</div>
+
 
