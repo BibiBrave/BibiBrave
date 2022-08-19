@@ -31,4 +31,4 @@
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=BibiBrave&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
