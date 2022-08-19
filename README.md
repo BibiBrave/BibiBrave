@@ -24,6 +24,11 @@
         </ul>
 </details>
 
+<div>
+<a href="https://github.com/BibiBrave">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BibiBrave&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibiBrave&layout=compact&langs_count=16&theme=midnight-purple"
+</div>
 ## Tecnologias e Ferramentas
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,10 +36,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-<div>
-<a href="https://github.com/BibiBrave">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BibiBrave&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibiBrave&layout=compact&langs_count=16&theme=midnight-purple"
-</div>
+
 ##
 
