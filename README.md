@@ -33,15 +33,9 @@
 ![VSCode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## GitHub Status✨
-
-<div align="center">
-  <a href="https://github.com/BibiBrave">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BibiBrave&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibiBrave&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
     
-    <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <div align="center">
+  <a href="https://github.com/BibiBrave">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BibiBrave&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibiBravei&layout=compact&langs_count=7&theme=dracula"/>
 </div>
