@@ -42,4 +42,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BibiBrave&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibiBrave&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-![snake gif]_(https://github.com/BibiBrave/BibiBrave/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/BibiBrave/BibiBrave/blob/output/github-contribution-grid-snake.svg)
