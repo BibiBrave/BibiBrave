@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bibi.brave/)
 [![Email Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/?fs=1&to=biancanogueiradasilva12@gmail.com&tf=cm)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-nogueira-484413249/)
-
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/101530786/185756941-63163396-cf61-4193-aaa0-aa8eb194fae9.gif)
  
 ## Sobre Mim✨
 ### Sou Brasileira e estou trilhando o caminho de Full-Stack.
