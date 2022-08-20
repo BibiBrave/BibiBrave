@@ -36,7 +36,7 @@
 
 <a href="https://github.com/BibiBrave"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=BibiBrave&show_icons=true&theme=midnight-purple"/>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibiBrave&layout=compact&langs_count=16&theme=midnight-purple"
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibiBrave&layout=compact&theme=midnight-purple"
 
 ## GitHub Status</h2>
 <a href="https://github.com/samuraiflamesf"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=samuraiflamesf&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&" /><!-- ADO --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraiflamesf&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&" /></a>
