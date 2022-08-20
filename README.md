@@ -34,16 +34,13 @@
 
 ## GitHub Status✨
 
-<a href="https://github.com/BibiBrave"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=BibiBrave&show_icons=true&theme=midnight-purple"/>
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibiBrave&layout=compact&theme=midnight-purple"
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bibibrave&repo=github-readme-stats&theme=midnight-purple" />
+<a href="https://github.com/BibiBrave">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BibiBrave&show_icons=true&theme=midnight-purple"/> 
+<a/>
+<a href="https://github.com/BibiBrave">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibiBrave&layout=compact&theme=midnight-purple"
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BibiBrave&repo=convoychat&theme=midnight-purple" />
-</a>
+
 
 
 
