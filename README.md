@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bibi.brave/)
 [![Email Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/?fs=1&to=biancanogueiradasilva12@gmail.com&tf=cm)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-nogueira-484413249/)
- <img align="right" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/101530786/188286771-73ef8bb3-27de-4418-90e6-2fc6161b3c3b.gif">
+ <img align="right" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/101530786/188286841-bece6705-29b8-4d03-9776-5f4d9ff74f40.gif">
 
 
  
