@@ -2,7 +2,7 @@
 ### ✨ Meios de contatos:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bibi.brave/)
 [![Email Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/?fs=1&to=biancanogueiradasilva12@gmail.com&tf=cm)
-<---[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-nogueira-484413249/)--->
+\\[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-nogueira-484413249/)\\
  <img align="right" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/101530786/188286909-71a896ba-4dca-4088-bf76-35a4192d8c43.gif">
 
 
