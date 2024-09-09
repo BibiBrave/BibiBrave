@@ -1,7 +1,7 @@
 # Olá, Sou Bianca Nogueira!!!
 ### ✨ Meios de contatos:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bibi.brave/)
-[![Email Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/?fs=1&to=biancanogueiradasilva12@gmail.com&tf=cm)
+[![Email Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/?fs=1&to=biancanogueira12.1@gmail.com&tf=cm)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-nogueira-484413249/)
  <img align="right" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/101530786/188286909-71a896ba-4dca-4088-bf76-35a4192d8c43.gif">
 
@@ -15,17 +15,6 @@
             <p>
  Não lembro exatamente quando entrei neste mundo, mas a cada dia mais me encanto. Meu conhecimento é aumentado constantemente e a cada bug que acontece uma risada é gerada, sendo que quando resolvido o problema um sorriso surgi e sempre é acompanhado do aprendizado. No momento estou a realizar um curso de Programação Web que trabalha tanto Front-end quanto Back-end. Aos poucos estou a trilhar a minha história.
  </p></details>
-<details>
-    <summary><h3>
-     🖥️Workstation🖥️</h3></summary> 
-        <ul>
-            <b>SO:</b> Dual Boot(Windows 10 & Ubuntu)</br>
-            <b>Code Editor:</b> VSCode.</br>
-            <b>CPU:</b> E5-2640v3</br>
-            <b>RAM:</b> 32Gb DDR4</br>
-            <b>GPU:</b> GTX 1070 8Gb</br>
-        </ul>
-</details>
 
 ## Tecnologias e Ferramentas 🛠️
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
