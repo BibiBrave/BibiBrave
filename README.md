@@ -1,12 +1,5 @@
 # Olá, Sou Bianca Nogueira!!!
-### ✨ Meios de contatos:
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bibi.brave/)
-[![Email Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/?fs=1&to=biancanogueira12.1@gmail.com&tf=cm)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-nogueira-484413249/)
 
-
-
- 
 ## Sobre Mim✨
 ### Sou Brasileira e estou trilhando o caminho de Full-Stack.
 <details>
@@ -29,18 +22,15 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
- ## GitHub Status✨
-    
-  <div>
-  <a href="https://github.com/BibiBrave">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BibiBrave&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibiBrave&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexxmfs/Alexxmfs/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alexxmfs/Alexxmfs/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alexxmfs/Alexxmfs/output/github-contribution-grid-snake.svg">
 </picture>
+
+### ✨ Meios de contatos:
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bibi.brave/)
+[![Email Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/?fs=1&to=biancanogueira12.1@gmail.com&tf=cm)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-nogueira-484413249/)
 
 
