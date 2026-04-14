@@ -1,8 +1,9 @@
-# Olá, Sou Bianca Nogueira!!!
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Bem-Vindo ao meu perfil!! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://github.com/user-attachments/assets/07108a6b-8174-457c-ae70-82f82c02f2d2" width="230">
+<p><em>Bianca Nogueira <a href="#">
 
-## Sobre Mim✨
-### Sou Brasileira e estou trilhando o caminho de Full-Stack.
-<img align="right" alt ="BibiBrave" src="https://github.com/user-attachments/assets/07108a6b-8174-457c-ae70-82f82c02f2d2">
+### Sobre Mim✨
+#### Sou Brasileira e estou trilhando o caminho de Full-Stack.
 
 <details>
     <summary><h3>
@@ -10,6 +11,8 @@
             <p>
  Não lembro exatamente quando entrei neste mundo, mas a cada dia mais me encanto. Meu conhecimento é aumentado constantemente e a cada bug que acontece uma risada é gerada, sendo que quando resolvido o problema um sorriso surgi e sempre é acompanhado do aprendizado. No momento estou a realizar um curso de Programação Web que trabalha tanto Front-end quanto Back-end. Aos poucos estou a trilhar a minha história.
  </p></details>
+
+
 
 ## Tecnologias e Ferramentas 🛠️
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
