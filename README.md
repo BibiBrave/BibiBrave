@@ -2,7 +2,7 @@
 
 ## Sobre Mim✨
 ### Sou Brasileira e estou trilhando o caminho de Full-Stack.
-![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/07108a6b-8174-457c-ae70-82f82c02f2d2)
+<img align="right" alt ="BibiBrave" src="https://github.com/user-attachments/assets/07108a6b-8174-457c-ae70-82f82c02f2d2">
 
 <details>
     <summary><h3>
