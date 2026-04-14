@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Bem-Vindo ao meu perfil!! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> Bem-Vindo ao meu perfil!!!<img src="https://usagif.com/wp-content/uploads/gifs/dancing-rabbit-31.gif" width="35"></h2>
 <img align='right' src="https://github.com/user-attachments/assets/07108a6b-8174-457c-ae70-82f82c02f2d2" width="230">
 <p><em>Bianca Nogueira <a href="#">
 
